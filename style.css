@@ -1,0 +1,88 @@
+textarea
+{
+    resize: none;
+}
+.alignment_center{
+    text-align: center;
+}
+.height_max{
+    height: 64px;
+}
+.form_border{
+    border: dashed 1px;
+}
+.size_label
+{
+    font-size: medium;
+}
+.border_circular
+{
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.border_dotted_bottomside
+{
+    border: 0;
+    border-bottom: dotted;
+    padding-bottom: 4px;
+    padding-left: 4px;
+}
+.border_dotted_bothside
+{
+    border: 0;
+    border-bottom: dotted;
+    border-top: dotted;
+    padding-bottom: 4px;
+    padding-left: 4px;
+}
+.border_dotted_allside
+{
+    border-collapse: collapse;
+    border: 1px dotted;
+}
+.card {
+    background:#FFF;
+    border:1px solid #AAA;
+    border-bottom:3px solid #BBB;
+    padding:0 auto;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background:#ffffff;
+    padding:0px;
+    margin:0px;
+    color:#333;
+    min-height:100%;
+}
+.l-content{
+    margin: 0 auto;
+}
+.chart-single-input
+{
+    border: 0;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.chart-1-2-input
+{
+    border: 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+}
+.chart-2-2-input
+{
+    border: 0;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.backgroung-div
+{
+  background-color: #BBB;
+}
